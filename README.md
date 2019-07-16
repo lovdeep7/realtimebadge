@@ -1,6 +1,6 @@
 # Realtime Badge in React Native
 
-[PubNub Realtime Presence Badge Gif](https://media.giphy.com/media/MFmLnJKpRo9YXqbd1I/giphy.gif)
+![PubNub Realtime Presence Badge Gif](https://media.giphy.com/media/MFmLnJKpRo9YXqbd1I/giphy.gif)
 
 
 [Click here for full tutorial]()
